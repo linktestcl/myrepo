@@ -1,0 +1,19 @@
+def add program
+ (
+	a+b
+ )
+
+def subtract program
+ (
+	a-b
+ )
+
+def multiply program
+ (
+	a*b
+ )
+
+def divide program
+ (
+	a/b
+ )
